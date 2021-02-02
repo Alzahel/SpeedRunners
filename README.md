@@ -15,7 +15,7 @@ The game core mechanics take inspiration from the original SpeedRunners game :
 4) The last one standing wins the game.
 
 
-![alt text](https://gph.is/g/aKQp0Bq)
+![alt text](https://media.giphy.com/media/vzwnf8NpOUSR8WyKQC/giphy.gif)
 
  The Game includes :
  
