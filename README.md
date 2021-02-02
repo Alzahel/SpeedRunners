@@ -17,14 +17,23 @@ The game core mechanics take inspiration from the original SpeedRunners game :
 
 ![alt text](https://media.giphy.com/media/vzwnf8NpOUSR8WyKQC/giphy.gif)
 
- The Game includes :
+Features of the game :
  
-### Slides & Wall slides
+### wall jump & double jump
+
+![alt text](https://media.giphy.com/media/OeJwm1QUOnNblDTLlE/giphy.gif)
+
+### Wall Climb & Wall Slides
  
+ https://media.giphy.com/media/zvIa5akgeibjqwxuoH/giphy.gif
  
-### Wall Climb & Wall jumps
- 
+### Slides
+
+![alt text](https://media.giphy.com/media/WNjJ6PSSvr22c9uX69/giphy.gif)
+
 ### Items
  
 ### Obstacles with checkpoints
+
+![alt text](https://media.giphy.com/media/0KeSKvbB1E3pEFXtih/giphy.gif)
  
