@@ -25,7 +25,7 @@ Features of the game :
 
 ### Wall Climb & Wall Slides
  
- https://media.giphy.com/media/zvIa5akgeibjqwxuoH/giphy.gif
+![alt text](https://media.giphy.com/media/zvIa5akgeibjqwxuoH/giphy.gif)
  
 ### Slides
 
