@@ -32,6 +32,8 @@ Features of the game :
 ![alt text](https://media.giphy.com/media/WNjJ6PSSvr22c9uX69/giphy.gif)
 
 ### Items
+
+![alt text](https://media.giphy.com/media/TMHlpjemEUFgdxZRVG/giphy.gif)
  
 ### Obstacles with checkpoints
 
