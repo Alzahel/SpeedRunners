@@ -16,7 +16,7 @@ The game core mechanics take inspiration from the original SpeedRunners game :
 
  The Game includes :
  
- ##Slides & Wall slides
+##titreSlides & Wall slides
  
  
  ##Wall Climb & Wall jumps
