@@ -1,4 +1,4 @@
- ![alt text](https://i.imgur.com/EOzmpqK.png)
+![alt text](https://i.imgur.com/EOzmpqK.png)
 
 # SpeedRunners
 
@@ -13,6 +13,9 @@ The game core mechanics take inspiration from the original SpeedRunners game :
 2) The camera is common to all players and will follow the 1st player.
 3) If you fall behind and get off the screen, you die.
 4) The last one standing wins the game.
+
+
+![alt text](https://gph.is/g/aKQp0Bq)
 
  The Game includes :
  
