@@ -3,10 +3,10 @@
 # SpeedRunners
 
 Speerunners is a game made by four 1st year students under my direction. The goal of the project was to allow these 4 beginners students who mostly never had coded before (nor used Unity) to discover how a game is made.
-With this idea in mind, i tried to direct them the best i could but i didn't take too much part in the production process.
+With this idea in mind, I tried to direct them the best I could but I didn't take too much part in the production process.
 Thanks to this methodology they were able to acquire a good amount of knowledge by resolving issues by themselves and by learning from their mistakes.
 
-The result is this game, which is of course still bugged and incomplete, but it's also a good playable prototype that they can be proud of.
+The result is this game, is of course still bugged and incomplete, but it's also a good playable prototype that they can be proud of.
 
 The game core mechanics take inspiration from the original SpeedRunners game :
 1) The players are evolving in a closed circuit
@@ -23,11 +23,11 @@ Features of the game :
 
 ![alt text](https://media.giphy.com/media/OeJwm1QUOnNblDTLlE/giphy.gif)
 
-### Wall Climb & Wall Slides
+### Wall Climb & Wall Slide
  
 ![alt text](https://media.giphy.com/media/zvIa5akgeibjqwxuoH/giphy.gif)
  
-### Slides
+### Ground Slide
 
 ![alt text](https://media.giphy.com/media/WNjJ6PSSvr22c9uX69/giphy.gif)
 
